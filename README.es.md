@@ -76,27 +76,27 @@ python3 solucion.py
 |---|---|---|---|
 | 01 | [Presentación](01-fundamentos/01-presentacion/Enunciado.md) | `input()`, `print()`, `int()`, `if/else` | ⏳ |
 | 02 | [Calculadora básica](01-fundamentos/02-calculadora/Enunciado.md) | operadores, variables | ⏳ |
-| 03 | Par o impar | operador `%` | ⏳ |
-| 04 | Conversor de unidades (bytes, MB, GB) | f-strings, decimales | ⏳ |
-| 05 | Clasificador de puertos | `if/elif/else`, rangos | ⏳ |
-| 06 | Tabla de multiplicar y cuenta atrás | `for`, `range()` | ⏳ |
-| 07 | Adivina el número | `while`, `random` | ⏳ |
-| 08 | Validar un octeto de IP (0-255) | `and/or`, validación con reintentos | ⏳ |
-| 09 | Comprobar longitud de contraseña | `len()`, cadenas | ⏳ |
-| 10 | Menú interactivo | `while True`, `break`, `elif` | ⏳ |
+| 03 | [Par o impar](01-fundamentos/03-par-impar/Enunciado.md) | operador `%` | ⏳ |
+| 04 | [Conversor de unidades (bytes, MB, GB)](01-fundamentos/04-conversor-unidades/Enunciado.md) | f-strings, decimales | ⏳ |
+| 05 | [Clasificador de puertos](01-fundamentos/05-clasificador-puertos/Enunciado.md) | `if/elif/else`, rangos | ⏳ |
+| 06 | [Tabla de multiplicar y cuenta atrás](01-fundamentos/06-tabla-multiplicar/Enunciado.md) | `for`, `range()` | ⏳ |
+| 07 | [Adivina el número](01-fundamentos/07-adivina-numero/Enunciado.md) | `while`, `random` | ⏳ |
+| 08 | [Validar un octeto de IP (0-255)](01-fundamentos/08-validar-octeto-ip/Enunciado.md) | `and/or`, validación con reintentos | ⏳ |
+| 09 | [Comprobar longitud de contraseña](01-fundamentos/09-longitud-password/Enunciado.md) | `len()`, cadenas | ⏳ |
+| 10 | [Menú interactivo](01-fundamentos/10-menu-interactivo/Enunciado.md) | `while True`, `break`, `elif` | ⏳ |
 
 ### Bloque 2 · Estructuras de datos y funciones
 
 | Nº | Ejercicio | Conceptos | Estado |
 |---|---|---|---|
-| 11 | Gestor de lista de IPs | listas, `append`, `remove` | ⏳ |
-| 12 | Diccionario puerto → servicio | diccionarios, `.get()` | ⏳ |
-| 13 | Contador de palabras | `split()`, diccionario como contador | ⏳ |
-| 14 | Función `es_ip_valida()` | funciones, `return` | ⏳ |
-| 15 | Intentos fallidos por usuario | diccionario + `for` | ⏳ |
-| 16 | Validador de contraseñas robusto | `any()`, métodos de cadenas | ⏳ |
-| 17 | Inventario de dispositivos de red | diccionarios anidados | ⏳ |
-| 18 | Filtrar y ordenar IPs por subred | `sorted()`, comprensión de listas | ⏳ |
+| 11 | [Gestor de lista de IPs](02-estructuras-datos/11-gestor-ips/Enunciado.md) | listas, `append`, `remove` | ⏳ |
+| 12 | [Diccionario puerto → servicio](02-estructuras-datos/12-puerto-servicio/Enunciado.md) | diccionarios, `.get()` | ⏳ |
+| 13 | [Contador de palabras](02-estructuras-datos/13-contador-palabras/Enunciado.md) | `split()`, diccionario como contador | ⏳ |
+| 14 | [Función `es_ip_valida()`](02-estructuras-datos/14-funcion-es-ip-valida/Enunciado.md) | funciones, `return` | ⏳ |
+| 15 | [Intentos fallidos por usuario](02-estructuras-datos/15-intentos-fallidos/Enunciado.md) | diccionario + `for` | ⏳ |
+| 16 | [Validador de contraseñas robusto](02-estructuras-datos/16-validador-passwords/Enunciado.md) | `any()`, métodos de cadenas | ⏳ |
+| 17 | [Inventario de dispositivos de red](02-estructuras-datos/17-inventario-dispositivos/Enunciado.md) | diccionarios anidados | ⏳ |
+| 18 | [Filtrar y ordenar IPs por subred](02-estructuras-datos/18-filtrar-ordenar-ips/Enunciado.md) | `sorted()`, comprensión de listas | ⏳ |
 
 ### Bloque 3 · Ficheros y sistema 🔜
 
