@@ -75,7 +75,7 @@ python3 solucion.py
 | Nº | Ejercicio | Conceptos | Estado |
 |---|---|---|---|
 | 01 | [Presentación](01-fundamentos/01-presentacion/Enunciado.md) | `input()`, `print()`, `int()`, `if/else` | ⏳ |
-| 02 | Calculadora básica | operadores, variables | ⏳ |
+| 02 | [Calculadora básica](01-fundamentos/02-calculadora/Enunciado.md) | operadores, variables | ⏳ |
 | 03 | Par o impar | operador `%` | ⏳ |
 | 04 | Conversor de unidades (bytes, MB, GB) | f-strings, decimales | ⏳ |
 | 05 | Clasificador de puertos | `if/elif/else`, rangos | ⏳ |
