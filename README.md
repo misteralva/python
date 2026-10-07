@@ -78,27 +78,27 @@ python3 solucion.py
 |---|---|---|---|
 | 01 | [Introduction](01-fundamentos/01-presentacion/Enunciado.md) | `input()`, `print()`, `int()`, `if/else` | ⏳ |
 | 02 | [Basic calculator](01-fundamentos/02-calculadora/Enunciado.md) | operators, variables | ⏳ |
-| 03 | Even or odd | `%` operator | ⏳ |
-| 04 | Unit converter (bytes, MB, GB) | f-strings, decimals | ⏳ |
-| 05 | Port classifier | `if/elif/else`, ranges | ⏳ |
-| 06 | Multiplication table and countdown | `for`, `range()` | ⏳ |
-| 07 | Guess the number | `while`, `random` | ⏳ |
-| 08 | Validate an IP octet (0-255) | `and/or`, input validation with retries | ⏳ |
-| 09 | Check password length | `len()`, strings | ⏳ |
-| 10 | Interactive menu | `while True`, `break`, `elif` | ⏳ |
+| 03 | [Even or odd](01-fundamentos/03-par-impar/Enunciado.md) | `%` operator | ⏳ |
+| 04 | [Unit converter (bytes, MB, GB)](01-fundamentos/04-conversor-unidades/Enunciado.md) | f-strings, decimals | ⏳ |
+| 05 | [Port classifier](01-fundamentos/05-clasificador-puertos/Enunciado.md) | `if/elif/else`, ranges | ⏳ |
+| 06 | [Multiplication table and countdown](01-fundamentos/06-tabla-multiplicar/Enunciado.md) | `for`, `range()` | ⏳ |
+| 07 | [Guess the number](01-fundamentos/07-adivina-numero/Enunciado.md) | `while`, `random` | ⏳ |
+| 08 | [Validate an IP octet (0-255)](01-fundamentos/08-validar-octeto-ip/Enunciado.md) | `and/or`, input validation with retries | ⏳ |
+| 09 | [Check password length](01-fundamentos/09-longitud-password/Enunciado.md) | `len()`, strings | ⏳ |
+| 10 | [Interactive menu](01-fundamentos/10-menu-interactivo/Enunciado.md) | `while True`, `break`, `elif` | ⏳ |
 
 ### Block 2 · Data structures and functions
 
 | # | Exercise | Concepts | Status |
 |---|---|---|---|
-| 11 | IP list manager | lists, `append`, `remove` | ⏳ |
-| 12 | Port → service dictionary | dictionaries, `.get()` | ⏳ |
-| 13 | Word counter | `split()`, dictionary as a counter | ⏳ |
-| 14 | `is_valid_ip()` function | functions, `return` | ⏳ |
-| 15 | Failed attempts per user | dictionary + `for` | ⏳ |
-| 16 | Robust password validator | `any()`, string methods | ⏳ |
-| 17 | Network device inventory | nested dictionaries | ⏳ |
-| 18 | Filter and sort IPs by subnet | `sorted()`, list comprehensions | ⏳ |
+| 11 | [IP list manager](02-estructuras-datos/11-gestor-ips/Enunciado.md) | lists, `append`, `remove` | ⏳ |
+| 12 | [Port → service dictionary](02-estructuras-datos/12-puerto-servicio/Enunciado.md) | dictionaries, `.get()` | ⏳ |
+| 13 | [Word counter](02-estructuras-datos/13-contador-palabras/Enunciado.md) | `split()`, dictionary as a counter | ⏳ |
+| 14 | [`is_valid_ip()` function](02-estructuras-datos/14-funcion-es-ip-valida/Enunciado.md) | functions, `return` | ⏳ |
+| 15 | [Failed attempts per user](02-estructuras-datos/15-intentos-fallidos/Enunciado.md) | dictionary + `for` | ⏳ |
+| 16 | [Robust password validator](02-estructuras-datos/16-validador-passwords/Enunciado.md) | `any()`, string methods | ⏳ |
+| 17 | [Network device inventory](02-estructuras-datos/17-inventario-dispositivos/Enunciado.md) | nested dictionaries | ⏳ |
+| 18 | [Filter and sort IPs by subnet](02-estructuras-datos/18-filtrar-ordenar-ips/Enunciado.md) | `sorted()`, list comprehensions | ⏳ |
 
 ### Block 3 · Files and system 🔜
 
