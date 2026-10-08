@@ -138,10 +138,3 @@ A complete CLI tool (network monitor or log analyzer with alerts) with arguments
 
 > Making mistakes and debugging is the best part of learning. 💪
 
----
-
-## 👤 Author
-
-**David** · [@misteralva](https://github.com/misteralva) · [misteralva.github.io](https://misteralva.github.io)
-
-ASIR student interested in networking, cybersecurity and automation.
