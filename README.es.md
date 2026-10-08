@@ -98,9 +98,18 @@ python3 solucion.py
 | 17 | [Inventario de dispositivos de red](02-estructuras-datos/17-inventario-dispositivos/Enunciado.md) | diccionarios anidados | ⏳ |
 | 18 | [Filtrar y ordenar IPs por subred](02-estructuras-datos/18-filtrar-ordenar-ips/Enunciado.md) | `sorted()`, comprensión de listas | ⏳ |
 
-### Bloque 3 · Ficheros y sistema 🔜
+### Bloque 3 · Ficheros y sistema
 
-Leer y escribir archivos, analizar un `auth.log` para detectar fuerza bruta, backups automáticos, auditar permisos. Módulos: `os`, `pathlib`, `subprocess`, `shutil`.
+| Nº | Ejercicio | Conceptos | Estado |
+|---|---|---|---|
+| 19 | [Leer un fichero y contar líneas y palabras](03-ficheros-sistema/19-leer-fichero/Enunciado.md) | `open()`, `with`, `try/except` | ⏳ |
+| 20 | [Diario/log con marca de tiempo](03-ficheros-sistema/20-diario-log/Enunciado.md) | modos `"w"`/`"a"`, `datetime` | ⏳ |
+| 21 | [Analizar un `auth.log` simulado](03-ficheros-sistema/21-analizar-auth-log/Enunciado.md) | ficheros + diccionarios | ⏳ |
+| 22 | [Backup de una carpeta con fecha](03-ficheros-sistema/22-backup-carpeta/Enunciado.md) | `shutil`, `pathlib` | ⏳ |
+| 23 | [Organizar archivos por extensión](03-ficheros-sistema/23-organizar-por-extension/Enunciado.md) | `pathlib`, `shutil.move` | ⏳ |
+| 24 | [Auditar permisos de ficheros](03-ficheros-sistema/24-auditar-permisos/Enunciado.md) | `os.walk`, `os.stat`, `stat` | ⏳ |
+| 25 | [Ejecutar comandos del sistema](03-ficheros-sistema/25-comandos-sistema/Enunciado.md) | `subprocess.run` | ⏳ |
+| 26 | [Guardar y cargar el inventario (JSON/CSV)](03-ficheros-sistema/26-guardar-inventario/Enunciado.md) | `json`, `csv` | ⏳ |
 
 ### Bloque 4 · Redes 🔜
 
