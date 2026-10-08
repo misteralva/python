@@ -100,9 +100,18 @@ python3 solucion.py
 | 17 | [Network device inventory](02-estructuras-datos/17-inventario-dispositivos/Enunciado.md) | nested dictionaries | ⏳ |
 | 18 | [Filter and sort IPs by subnet](02-estructuras-datos/18-filtrar-ordenar-ips/Enunciado.md) | `sorted()`, list comprehensions | ⏳ |
 
-### Block 3 · Files and system 🔜
+### Block 3 · Files and system
 
-Read and write files, analyze an `auth.log` to detect brute force attempts, automated backups, permission audits. Modules: `os`, `pathlib`, `subprocess`, `shutil`.
+| # | Exercise | Concepts | Status |
+|---|---|---|---|
+| 19 | [Read a file and count lines and words](03-ficheros-sistema/19-leer-fichero/Enunciado.md) | `open()`, `with`, `try/except` | ⏳ |
+| 20 | [Journal/log with timestamps](03-ficheros-sistema/20-diario-log/Enunciado.md) | modes `"w"`/`"a"`, `datetime` | ⏳ |
+| 21 | [Analyze a simulated `auth.log`](03-ficheros-sistema/21-analizar-auth-log/Enunciado.md) | files + dictionaries | ⏳ |
+| 22 | [Folder backup with date](03-ficheros-sistema/22-backup-carpeta/Enunciado.md) | `shutil`, `pathlib` | ⏳ |
+| 23 | [Organize files by extension](03-ficheros-sistema/23-organizar-por-extension/Enunciado.md) | `pathlib`, `shutil.move` | ⏳ |
+| 24 | [Audit file permissions](03-ficheros-sistema/24-auditar-permisos/Enunciado.md) | `os.walk`, `os.stat`, `stat` | ⏳ |
+| 25 | [Run system commands](03-ficheros-sistema/25-comandos-sistema/Enunciado.md) | `subprocess.run` | ⏳ |
+| 26 | [Save and load the inventory (JSON/CSV)](03-ficheros-sistema/26-guardar-inventario/Enunciado.md) | `json`, `csv` | ⏳ |
 
 ### Block 4 · Networking 🔜
 
