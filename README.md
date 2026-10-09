@@ -113,9 +113,18 @@ python3 solucion.py
 | 25 | [Run system commands](03-ficheros-sistema/25-comandos-sistema/Enunciado.md) | `subprocess.run` | ⏳ |
 | 26 | [Save and load the inventory (JSON/CSV)](03-ficheros-sistema/26-guardar-inventario/Enunciado.md) | `json`, `csv` | ⏳ |
 
-### Block 4 · Networking 🔜
+### Block 4 · Networking
 
-Port scanner, ping sweep, TCP client/server, API queries, command execution over SSH. Modules: `socket`, `ipaddress`, `requests`, `paramiko`.
+| # | Exercise | Concepts | Status |
+|---|---|---|---|
+| 27 | [Subnet calculator](04-redes/27-calculadora-subredes/Enunciado.md) | `ipaddress` | ⏳ |
+| 28 | [Ping sweep](04-redes/28-barrido-ping/Enunciado.md) | `subprocess`, `ipaddress` | ⏳ |
+| 29 | [TCP port scanner](04-redes/29-escaner-puertos/Enunciado.md) | `socket` | ⏳ |
+| 30 | [TCP client and server (echo)](04-redes/30-cliente-servidor-tcp/Enunciado.md) | `socket`, `bind`, `listen` | ⏳ |
+| 31 | [Query an API](04-redes/31-consultar-api/Enunciado.md) | `requests`, JSON, `venv` | ⏳ |
+| 32 | [Forward and reverse DNS lookup](04-redes/32-resolucion-dns/Enunciado.md) | `socket`, network errors | ⏳ |
+| 33 | [Run commands over SSH on a VM](04-redes/33-comandos-ssh/Enunciado.md) | `paramiko`, `getpass` | ⏳ |
+| 34 | [CLI tool with arguments](04-redes/34-herramienta-cli/Enunciado.md) | `argparse` | ⏳ |
 
 ### Block 5 · Defensive cybersecurity 🔜
 
@@ -137,4 +146,3 @@ A complete CLI tool (network monitor or log analyzer with alerts) with arguments
 4. Compare with `solucion.py` only at the end.
 
 > Making mistakes and debugging is the best part of learning. 💪
-
