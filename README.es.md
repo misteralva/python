@@ -111,9 +111,18 @@ python3 solucion.py
 | 25 | [Ejecutar comandos del sistema](03-ficheros-sistema/25-comandos-sistema/Enunciado.md) | `subprocess.run` | ⏳ |
 | 26 | [Guardar y cargar el inventario (JSON/CSV)](03-ficheros-sistema/26-guardar-inventario/Enunciado.md) | `json`, `csv` | ⏳ |
 
-### Bloque 4 · Redes 🔜
+### Bloque 4 · Redes
 
-Escáner de puertos, barrido de ping, cliente/servidor TCP, consultas a APIs, ejecución de comandos por SSH. Módulos: `socket`, `ipaddress`, `requests`, `paramiko`.
+| Nº | Ejercicio | Conceptos | Estado |
+|---|---|---|---|
+| 27 | [Calculadora de subredes](04-redes/27-calculadora-subredes/Enunciado.md) | `ipaddress` | ⏳ |
+| 28 | [Barrido de ping](04-redes/28-barrido-ping/Enunciado.md) | `subprocess`, `ipaddress` | ⏳ |
+| 29 | [Escáner de puertos TCP](04-redes/29-escaner-puertos/Enunciado.md) | `socket` | ⏳ |
+| 30 | [Cliente y servidor TCP (eco)](04-redes/30-cliente-servidor-tcp/Enunciado.md) | `socket`, `bind`, `listen` | ⏳ |
+| 31 | [Consultar una API](04-redes/31-consultar-api/Enunciado.md) | `requests`, JSON, `venv` | ⏳ |
+| 32 | [Resolución DNS directa e inversa](04-redes/32-resolucion-dns/Enunciado.md) | `socket`, errores de red | ⏳ |
+| 33 | [Comandos por SSH en una VM](04-redes/33-comandos-ssh/Enunciado.md) | `paramiko`, `getpass` | ⏳ |
+| 34 | [Herramienta CLI con argumentos](04-redes/34-herramienta-cli/Enunciado.md) | `argparse` | ⏳ |
 
 ### Bloque 5 · Ciberseguridad defensiva 🔜
 
@@ -135,11 +144,3 @@ Una herramienta CLI completa (monitor de red o analizador de logs con alertas) c
 4. Compara con `solucion.py` solo al final.
 
 > Equivocarse y depurar es la mejor parte del aprendizaje. 💪
-
----
-
-## 👤 Autor
-
-**David** · [@misteralva](https://github.com/misteralva) · [misteralva.github.io](https://misteralva.github.io)
-
-Estudiante de ASIR, interesado en redes, ciberseguridad y automatización.
