@@ -124,9 +124,18 @@ python3 solucion.py
 | 33 | [Comandos por SSH en una VM](04-redes/33-comandos-ssh/Enunciado.md) | `paramiko`, `getpass` | ⏳ |
 | 34 | [Herramienta CLI con argumentos](04-redes/34-herramienta-cli/Enunciado.md) | `argparse` | ⏳ |
 
-### Bloque 5 · Ciberseguridad defensiva 🔜
+### Bloque 5 · Ciberseguridad defensiva
 
-Integridad de ficheros con hashes, detección de IPs sospechosas en logs, sniffer básico, generador y validador de contraseñas. Módulos: `hashlib`, `re`, `scapy`.
+| Nº | Ejercicio | Conceptos | Estado |
+|---|---|---|---|
+| 35 | [Hash de ficheros y verificación de integridad](05-ciberseguridad/35-hash-ficheros/Enunciado.md) | `hashlib` | ⏳ |
+| 36 | [Monitor de integridad de una carpeta](05-ciberseguridad/36-monitor-integridad/Enunciado.md) | hashes, `json`, conjuntos | ⏳ |
+| 37 | [Extraer IPs y emails de un log](05-ciberseguridad/37-extraer-ips-emails/Enunciado.md) | `re` (regex) | ⏳ |
+| 38 | [Detector de fuerza bruta con alertas](05-ciberseguridad/38-detector-fuerza-bruta/Enunciado.md) | ventana deslizante, `datetime` | ⏳ |
+| 39 | [Generador seguro de contraseñas](05-ciberseguridad/39-generador-passwords/Enunciado.md) | `secrets`, entropía | ⏳ |
+| 40 | [Comprobar si una contraseña está filtrada](05-ciberseguridad/40-password-filtrada/Enunciado.md) | k-anonimato, `hashlib`, `requests` | ⏳ |
+| 41 | [Sniffer básico de paquetes](05-ciberseguridad/41-sniffer-paquetes/Enunciado.md) | `scapy` | ⏳ |
+| 42 | [Cifrar y descifrar ficheros](05-ciberseguridad/42-cifrar-ficheros/Enunciado.md) | `cryptography` (Fernet) | ⏳ |
 
 ### Bloque 6 · Proyecto final 🔜
 
@@ -144,3 +153,11 @@ Una herramienta CLI completa (monitor de red o analizador de logs con alertas) c
 4. Compara con `solucion.py` solo al final.
 
 > Equivocarse y depurar es la mejor parte del aprendizaje. 💪
+
+---
+
+## 👤 Autor
+
+**David** · [@misteralva](https://github.com/misteralva) · [misteralva.github.io](https://misteralva.github.io)
+
+Estudiante de ASIR, interesado en redes, ciberseguridad y automatización.
