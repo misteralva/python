@@ -126,9 +126,18 @@ python3 solucion.py
 | 33 | [Run commands over SSH on a VM](04-redes/33-comandos-ssh/Enunciado.md) | `paramiko`, `getpass` | ⏳ |
 | 34 | [CLI tool with arguments](04-redes/34-herramienta-cli/Enunciado.md) | `argparse` | ⏳ |
 
-### Block 5 · Defensive cybersecurity 🔜
+### Block 5 · Defensive cybersecurity
 
-File integrity with hashes, detection of suspicious IPs in logs, basic packet sniffer, password generator and validator. Modules: `hashlib`, `re`, `scapy`.
+| # | Exercise | Concepts | Status |
+|---|---|---|---|
+| 35 | [File hashing and integrity verification](05-ciberseguridad/35-hash-ficheros/Enunciado.md) | `hashlib` | ⏳ |
+| 36 | [Folder integrity monitor](05-ciberseguridad/36-monitor-integridad/Enunciado.md) | hashes, `json`, sets | ⏳ |
+| 37 | [Extract IPs and emails from a log](05-ciberseguridad/37-extraer-ips-emails/Enunciado.md) | `re` (regex) | ⏳ |
+| 38 | [Brute-force detector with alerts](05-ciberseguridad/38-detector-fuerza-bruta/Enunciado.md) | sliding window, `datetime` | ⏳ |
+| 39 | [Secure password generator](05-ciberseguridad/39-generador-passwords/Enunciado.md) | `secrets`, entropy | ⏳ |
+| 40 | [Check if a password has been leaked](05-ciberseguridad/40-password-filtrada/Enunciado.md) | k-anonymity, `hashlib`, `requests` | ⏳ |
+| 41 | [Basic packet sniffer](05-ciberseguridad/41-sniffer-paquetes/Enunciado.md) | `scapy` | ⏳ |
+| 42 | [Encrypt and decrypt files](05-ciberseguridad/42-cifrar-ficheros/Enunciado.md) | `cryptography` (Fernet) | ⏳ |
 
 ### Block 6 · Final project 🔜
 
@@ -146,3 +155,11 @@ A complete CLI tool (network monitor or log analyzer with alerts) with arguments
 4. Compare with `solucion.py` only at the end.
 
 > Making mistakes and debugging is the best part of learning. 💪
+
+---
+
+## 👤 Author
+
+**David** · [@misteralva](https://github.com/misteralva) · [misteralva.github.io](https://misteralva.github.io)
+
+ASIR student interested in networking, cybersecurity and automation.
