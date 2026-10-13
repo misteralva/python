@@ -139,11 +139,21 @@ python3 solucion.py
 | 41 | [Basic packet sniffer](05-ciberseguridad/41-sniffer-paquetes/Enunciado.md) | `scapy` | ⏳ |
 | 42 | [Encrypt and decrypt files](05-ciberseguridad/42-cifrar-ficheros/Enunciado.md) | `cryptography` (Fernet) | ⏳ |
 
-### Block 6 · Final project 🔜
+### Block 6 · Final project
 
-A complete CLI tool (network monitor or log analyzer with alerts) with arguments, logging, tests and a virtual environment.
+A single project, `toolkit`: a defensive security tool with four modules (`logs`, `audit`, `netmon`, `hids`). See the [block README](06-proyecto-final/README.md) for the architecture and how the phases work (statements are in Spanish).
 
-**Legend:** ✅ done · ⏳ pending · 🔜 to be detailed
+| # | Phase | Concepts | Status |
+|---|---|---|---|
+| 43 | [Design and project skeleton](06-proyecto-final/43-diseno-esqueleto/Enunciado.md) | packages, `pyproject.toml`, `argparse` | ⏳ |
+| 44 | [Core: config, logging, alerts, reports](06-proyecto-final/44-nucleo-comun/Enunciado.md) | `tomllib`, `logging`, `dataclasses` | ⏳ |
+| 45 | [`logs` module: analyzer with alerts](06-proyecto-final/45-modulo-logs/Enunciado.md) | regex, sliding window, `collections` | ⏳ |
+| 46 | [`audit` module: Linux security audit](06-proyecto-final/46-modulo-audit/Enunciado.md) | `stat`, `ss`, hardening | ⏳ |
+| 47 | [`netmon` module: network monitor](06-proyecto-final/47-modulo-netmon/Enunciado.md) | `ThreadPoolExecutor`, baseline | ⏳ |
+| 48 | [`hids` module: mini HIDS](06-proyecto-final/48-modulo-hids/Enunciado.md) | integration, `watch`, deduplication | ⏳ |
+| 49 | [Tests, packaging and final README](06-proyecto-final/49-tests-empaquetado/Enunciado.md) | `pytest`, `build`, versioning | ⏳ |
+
+**Legend:** ✅ done · ⏳ pending
 
 ---
 
